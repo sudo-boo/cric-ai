@@ -1,0 +1,45 @@
+Problem statement
+
+Assumptions
+
+Approach
+
+- Stabilizing/Caliberating
+
+- Visualisation
+
+- Image segmentation for pitch detection.
+	Show different ways like Edge detection.
+	If fixed - Set coordinates
+- Ball Tracking using CNN
+ - Data Gathering
+ - Training
+ - Usage
+	Hard to assess the size but position is recognazible fast and ease.
+
+- Gather Coordinates Data for each delilvery
+ - Depends on various factors Recording frequency, 
+   processing speed, etc
+
+- Consider Noise and Noise Removal
+
+- Calculating the bounce point in the given space
+
+
+Things you are submitting
+ - Pitch detection
+ - Detect inflection point
+ - Ball Tracking Visualisation
+ - images
+
+
+
+zas\ =\ \left|15\cos\left(\frac{x}{35}-4.6\right)\ \right|\left\{y=-0.2x\right\}
+
+z\ =\ \left|15\cos\left(\frac{x}{35}-4.6\right)\ \right|\left\{y=-0.2x\right\}
+
+z\ =\ \left|18\cos\left(\frac{x}{32}-4\right)\ \right|\left\{y=-0.15x\right\}
+
+z\ =\ \left|14\cos\left(\frac{x}{38}-4.5\right)\ \right|\left\{y=-0.1x+4\right\}
+
+
