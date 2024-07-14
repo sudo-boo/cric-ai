@@ -1,4 +1,4 @@
-# Pitch-Map
+# Cric-AI
 
 All the visualisations that I used in this are mostly images that I provide along with explanation, code based visualisations. `generate-pitch-map.ipynb` attached along with the report.
 
